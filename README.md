@@ -1,4 +1,4 @@
-# 🚦 Smart Cities Traffic Analysis & Visualization using DQN
+# 🚦 Smart Cities Traffic Analysis & Visualization
 
 ## 📌 Project Description
 This project focuses on Smart City traffic analysis to optimize traffic flow and improve urban mobility. It analyzes real-time traffic patterns and visualizes congestion levels to support intelligent decision-making in smart city infrastructure.
